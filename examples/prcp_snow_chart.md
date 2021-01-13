@@ -5,7 +5,7 @@ In this tutorial, you will learn:
 
 1. How to download file from a url
 2. Unzip the file you just downloaded. Other transformation could be done the same exact way, here the transformation is simply an "unzip"-ing.
-3. Load file into am HPCC Systems Thor Cluster
+3. Load file into an HPCC Systems Thor Cluster
 4. Run ECL queries to make sure data was loaded properly, to transform raw format into final format and to create a summary of some of its content.
 5. Generate an image-charts.com URL to visualise that summary in a browser.
 
